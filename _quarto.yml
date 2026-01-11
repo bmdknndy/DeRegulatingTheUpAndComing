@@ -1,18 +1,13 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
-  title: "Deregulating the Up & Coming"
-  navbar:
-    left:
-      - text: "Policy Brief"
-        href: brief.qmd
+  title: "DeRegulatingTheUpAndComing"
 
 format:
   html:
     toc: true
-    theme: cosmo
 
 execute:
   echo: false
