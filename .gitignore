@@ -1,0 +1,16 @@
+# ---- Quarto ----
+_site/
+.quarto/
+
+# ---- R ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# ---- OS ----
+.DS_Store
+
+# ---- Optional: large/raw data ----
+data/raw/*
+!data/raw/README.md

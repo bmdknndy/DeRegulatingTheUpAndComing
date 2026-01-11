@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Deregulating the Up & Coming"
+  navbar:
+    left:
+      - text: "Policy Brief"
+        href: brief.qmd
+
+format:
+  html:
+    toc: true
+    theme: cosmo
+
+execute:
+  echo: false
+  warning: false
+  message: false

@@ -1,0 +1,7 @@
+---
+title: "Landing Page"
+---
+
+- [Read the policy brief](brief.qmd)
+
+---
