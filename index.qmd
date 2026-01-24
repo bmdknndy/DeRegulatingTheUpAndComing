@@ -107,6 +107,8 @@ Gentrification between 2012â€“2019 is associated with meaningful losses of rentâ
 
 # Methodological Appendix
 
+[View the repo for this project on my GitHub](https://github.com/bmdknndy/DeRegulatingTheUpAndComing)
+
 ![](exports/figures/methods.png)
 
 ------------------------------------------------------------------------
